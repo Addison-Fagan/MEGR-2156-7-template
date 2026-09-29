@@ -1,9 +1,10 @@
-# A6 – [Topic]
+## A6: Bracket Drawing (Drawings Part 1)
 
 ## Objective
-
+For this assignment, we’re taking the dimensions we figured out last week for a T fitting bracket and turning them into a 3D model, plus making an engineering drawing. Last week, we had to calculate the bracket’s size based on the T-fitting measurements and the load it had to hold. Now, we're using those numbers to build the part in 3D and then put together a drawing sheet using third-angle projection on an ANSI B sheet.
 
 ## Analyze
+
 
 
 ## Decide
